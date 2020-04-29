@@ -3,7 +3,7 @@ A simple and rough demo for auto playing the "Lyto Different Color" game on Face
 
 # Demo
 ![](demo/demo.gif)
-![](demo/record.png)
+![](demo/record_small.png)
 
 # Enviroment
 This code was developed and tested on the following environment.
