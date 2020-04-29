@@ -29,3 +29,16 @@ brew install opencv
 ```
 python cheat.py
 ```
+
+# How To Fit the screen
+You will probably need to modify the command:
+```
+screencapture -R110,400,300,300 screen.jpg
+```
+In this demo, we captured screen by specifing { x:110, y:400, width:300, height:300} as shown blow:
+![](demo/howtofit.png)
+
+
+Make sure the screenshot you take fit exactly like this:
+![](demo/screenshot.png)
+
